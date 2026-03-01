@@ -50,11 +50,11 @@ iot-telemetry-api/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/iot-telemetry-api.git
+git clone https://github.com/1khaled-ctr/iot-telemetry-api.git
 cd iot-telemetry-api
 ```
 
-Replace `YOUR_USERNAME` with your actual GitHub username.
+Replace `1khaled-ctr` with your actual GitHub username.
 
 ---
 
